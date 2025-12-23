@@ -70,7 +70,6 @@ cd vista-voyages
 <pre>
 <code>
 cd backend
-npm install
 npm start
 </code>
 </pre>
@@ -81,7 +80,6 @@ npm start
 <pre>
 <code>
 cd frontend
-npm install
 npm run dev
 </code>
 </pre>
